@@ -1,0 +1,10 @@
+Flask
+Flask-CORS
+python-dotenv
+requests
+PyPDF2
+chromadb
+sentence-transformers
+scikit-learn
+numpy
+gunicorn
